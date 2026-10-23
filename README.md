@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 - Focado no desenvolvimento ponta a ponta de aplicações web, APIs e automações.
 - Estudante de **Análise e Desenvolvimento de Sistemas**.
