@@ -14,14 +14,14 @@
 
 ### 🚀 Sobre Mim
 
-- 🛠️ Focado no desenvolvimento ponta a ponta de aplicações web, APIs e automações.
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 💡 Apaixonado por transformar ideias em arquiteturas limpas, funcionais e bem documentadas.
-- ⚡ Sempre construindo novos projetos práticos para resolver problemas reais.
+- Focado no desenvolvimento ponta a ponta de aplicações web, APIs e automações.
+- Estudante de **Análise e Desenvolvimento de Sistemas**.
+- Apaixonado por transformar ideias em arquiteturas limpas, funcionais e bem documentadas.
+- Sempre construindo novos projetos práticos para resolver problemas reais.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,py,html,css,mysql,docker,git,github,vscode&perline=6" alt="Tech Stack" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Estatísticas no GitHub
+### Estatísticas no GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus11042006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🏆 Destaque de Projetos
+### Destaque de Projetos
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
